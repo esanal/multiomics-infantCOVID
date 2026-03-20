@@ -1,0 +1,12 @@
+GEOparse
+numpy
+pandas
+scanpy
+anndata
+muon
+snapatac2
+hdf5plugin
+mofax
+seaborn
+matplotlib
+jupyterlab
